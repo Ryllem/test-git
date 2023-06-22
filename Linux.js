@@ -1,1 +1,1 @@
-const boss = "linux torvald the boss"
+const boss = "linux torvald is died"
