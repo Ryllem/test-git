@@ -1,0 +1,1 @@
+const boss = "linux torvald the boss"
